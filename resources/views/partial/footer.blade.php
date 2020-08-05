@@ -2,10 +2,10 @@
 <section class="footer-section">
     <div class="container">
         <div class="footer-logo text-center">
-            <a href="index.html">E-Shopping</a>
+            <a href="index.html">Esp Computer</a>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div class="footer-widget about-widget">
                     <h2>About</h2>
                     <p>Donec vitae purus nunc. Morbi faucibus erat sit amet congue mattis. Nullam frin-gilla
@@ -13,7 +13,7 @@
                     <img src="img/cards.png" alt="">
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div class="footer-widget about-widget">
                     <h2>Questions</h2>
                     <ul>
@@ -33,47 +33,25 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
-                <div class="footer-widget about-widget">
-                    <h2>Questions</h2>
-                    <div class="fw-latest-post-widget">
-                        <div class="lp-item">
-                            <div class="lp-thumb set-bg" data-setbg="img/product/1.jpg"></div>
-                            <div class="lp-content">
-                                <h6>what shoes to wear</h6>
-                                <span>Oct 21, 2018</span>
-                                <a href="#" class="readmore">Read More</a>
-                            </div>
-                        </div>
-                        <div class="lp-item">
-                            <div class="lp-thumb set-bg" data-setbg="img/product/2.jpg"></div>
-                            <div class="lp-content">
-                                <h6>trends this year</h6>
-                                <span>Oct 21, 2018</span>
-                                <a href="#" class="readmore">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6">
+
+            <div class="col-lg-4 col-sm-6">
                 <div class="footer-widget contact-widget">
-                    <h2>Questions</h2>
+                    <h2>Location</h2>
                     <div class="con-info">
                         <span>C.</span>
-                        <p>Your Company Ltd </p>
+                        <p>Esp computer Co,Ltd </p>
                     </div>
                     <div class="con-info">
                         <span>B.</span>
-                        <p>1481 Creekside Lane Avila Beach, CA 93424, P.O. BOX 68 </p>
+                        <p>Phnom Penh 12150, 809 Kampuchea Krom Blvd (128),</p>
                     </div>
                     <div class="con-info">
                         <span>T.</span>
-                        <p>+53 345 7953 32453</p>
+                        <p>+855 8133 0498</p>
                     </div>
                     <div class="con-info">
                         <span>E.</span>
-                        <p>office@youremail.com</p>
+                        <p>espcomputer@gmail.com</p>
                     </div>
                 </div>
             </div>

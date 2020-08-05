@@ -28,12 +28,12 @@
     <div class="sidebar" data-color="white" data-active-color="danger">
         <div class="logo">
 
-            <a href="http://www.creative-tim.com" class="simple-text logo-normal">
+          
 
                 <div class="logo-image-big">
-                    <img src="{{url('/backend/admin/assets/img/logo.png')}}">
+                    <img src="{{asset('img/ecom.png')}}">
                 </div>
-            </a>
+            
         </div>
         @yield('sidebar')
     </div>

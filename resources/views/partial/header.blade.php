@@ -3,14 +3,11 @@
     <div class="header-top">
         <div class="container">
             <div class="row">
-                {{-- <div class="col-lg-2 text-center text-lg-left">
-                    <!-- logo -->
-                    <a href="./index.html" class="site-logo">
-                        <img src="img/logo.png" alt="">
-                    </a>
-                </div> --}}
-                <!--Search Button-->
-               <div> E- Shopping</div>
+                
+                    
+
+                <!--Search Button & logo -->
+               <div> <img src="{{asset('img/ecom.png')}}" alt="" style="width:140px;height:50px;"></div>
                 <div class="col-xl-5 col-lg-6">
                     <form class="header-search-form">
                         <input type="text" placeholder="Search book  ....">
@@ -63,9 +60,7 @@
             <li><a href="{{'/homeIndex'}}">Home</a></li>
 
                 <li><a href="{{url('/contact_us')}}">Contact</a></li>
-            <li><a href="#">Chat
-                        {{-- <span class="new">New Feature</span> --}}
-                    </a></li>
+            
                 <li><a href="{{url('/about_us/me')}}">About Us</a></li>
 
                 <!--User Account Location-->

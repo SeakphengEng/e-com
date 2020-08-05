@@ -37,18 +37,7 @@
                     <p>User Management</p>
                 </a>
             </li>
-            <li>
-                <a href="{{url("dashboard/ordering")}}">
-                    <i class="nc-icon nc-tile-56"></i>
-                    <p>Ordering Product</p>
-                </a>
-            </li>
-            <li>
-                <a href="{{url("dashboard/report")}}">
-                    <i class="nc-icon nc-caps-small"></i>
-                    <p>Report</p>
-                </a>
-            </li>
+           
 
         </ul>
     </div>
