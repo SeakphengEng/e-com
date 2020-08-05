@@ -6,7 +6,7 @@
                 {{-- <div class="col-lg-2 text-center text-lg-left">
                     <!-- logo -->
                     <a href="./index.html" class="site-logo">
-                        <img src="img/logo.png" alt="">
+                        <img src="{{asset('img/ecom.png')}}" alt="">
                     </a>
                 </div> --}}
                 <!--Search Button-->
