@@ -37,11 +37,10 @@
                     <p>+85 8133 0498</p>
                     <p>espcomputer@gmail.com</p>
                     <div class="contact-social">
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
-                        <a href="#"><i class="fa fa-behance"></i></a>
+                    <a href="https://www.instagram.com/pheng.ph/" class="instagram"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/Seakpheng.Eng.80/" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/ESeakpheng" class="twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.youtube.com/feed/my_videos" class="youtube"><i class="fa fa-youtube"></i></a>
                     </div>
                     <form class="contact-form">
                         <input type="text" placeholder="Your name">
